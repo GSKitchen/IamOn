@@ -1,2 +1,5 @@
 # IamOn
-My first repository. Just checking, how it is working...
+Hi there,
+Here is an example of readme file after making a new branch.
+Happy <Coding>
+
